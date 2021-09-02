@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "RestService",
 		"typeProperties": {
-			"url": "https://api.beta.ons.gov.uk/v1",
+			"url": "https://api.beta.ons.gov.uk/v1/datasets",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
